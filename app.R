@@ -8,15 +8,15 @@
 #
 
 #install
-#install.packages("gtrendsR")
-#install.packages("shiny")
-#install.packages("shinymaterial")
-#install.packages("plotly")
-#install.packages("rtweet")
-#install.packages("dplyr")
-#install.packages("glue")
-#install.packages("reactable")
-#install.packages("purrr")
+install.packages("gtrendsR")
+install.packages("shiny")
+install.packages("shinymaterial")
+install.packages("plotly")
+install.packages("rtweet")
+install.packages("dplyr")
+install.packages("glue")
+install.packages("reactable")
+install.packages("purrr")
 
 #library
 library(gtrendsR)
